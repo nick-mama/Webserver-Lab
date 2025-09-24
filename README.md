@@ -8,6 +8,6 @@ Steps to run the server:
 4. Find IP address  
        Windows: ipconfig in Command Prompt  
        Mac/Linux: ifconfig or ip addr
-5. In a browser go to: http://<your-ip>:6789/HelloWorld.html
+5. In a browser go to http://\<your-ip\>:6789/HelloWorld.html
 6. If it works you will see a page that says "Hello, World!"  
    If it failed you are requesting a file that does not exist and will see "404 Not Found".

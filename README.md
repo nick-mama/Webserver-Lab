@@ -10,4 +10,4 @@ Steps to run the server:
        Mac/Linux: ifconfig or ip addr
 5. In a broswer type: http://<your-ip>:6789/HelloWorld.html
 6. If it works you will see a page that says "Hello, World!"
-   If it failed you will see "404 Not Found"
+   If it failed you are requesting a file that does not exist and will see "404 Not Found".
